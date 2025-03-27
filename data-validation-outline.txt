@@ -1,0 +1,4 @@
+1. Random # picker
+2. Top N analysis
+3. Dropdown/dynamic dropdown  
+4. Checkbox picker == then add conditional logic 
